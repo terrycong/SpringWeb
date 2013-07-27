@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.zeroturnaround.com http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd"
+    xmlns="http://www.zeroturnaround.com" >
 
-	<classpath>
-		<dir name="G:/spring/code/SpringSourceCode/SpringWeb/target/classes">
-		</dir>
-	</classpath>
+    <classpath>
 
-	<web>
-		<link target="/">
-			<dir name="G:/spring/code/SpringSourceCode/SpringWeb/WebContent">
-			</dir>
-		</link>
-	</web>
+        <dir name="C:/Documents and Settings/Administrator.WWW-C10C3FD1526/git/SpringWeb/SpringWeb/target/classes" >
+        </dir>
+    </classpath>
+
+    <web>
+
+        <link target="/" >
+
+            <dir name="C:/Documents and Settings/Administrator.WWW-C10C3FD1526/git/SpringWeb/SpringWeb/WebContent" >
+            </dir>
+        </link>
+    </web>
 
 </application>
